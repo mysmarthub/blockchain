@@ -4,7 +4,20 @@ BlockChain
 ![GitHub](https://img.shields.io/github/license/mysmarthub/blockchain)
 ![GitHub all releases](https://img.shields.io/github/downloads/mysmarthub/blockchain/total)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mysmarthub/blockchain)
+[![Donate](https://img.shields.io/static/v1?label=donate&message=paypal&color=green)](https://paypal.me/myhackband)
+[![Donate](https://img.shields.io/static/v1?label=donate&message=yandex&color=yellow)](https://yoomoney.ru/to/4100115206129186)
+---
 
+Help the project financially:
+---
+>Yandex Money:
+https://yoomoney.ru/to/4100115206129186
+
+    Visa:    4048 0250 0089 5923
+
+https://paypal.me/myhackband
+
+---
 Help:
 ---
 `pip install -r requirements.txt`
